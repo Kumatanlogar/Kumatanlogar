@@ -1,7 +1,7 @@
 # 👋 Hey, I’m KumatanLogar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=25&center=true&vCenter=true&lines=Full-Stack+Developer;Discord+Bot+Developer;CyberSecurity+Expert;Website+Developer;Always+Building+Cool+Skids" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=25&center=true&vCenter=true&CyberSecurity+Expert;Website+Developer;Always+Building+Cool+Skids" alt="Typing SVG">
 </p>  
 
 ---
