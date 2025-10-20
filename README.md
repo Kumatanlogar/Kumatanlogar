@@ -5,7 +5,7 @@
 </p>  
 
 ---
-![](https://komarev.com/ghpvc/?username=Kumatanlogar&style=flat)
+![](https://komarev.com/ghpvc/?username=Kumatanlogar&style=flat) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://to.lorenzo0111.me/discord [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kumatanlogar) 
 ---
 
 ## 🚀 About Me  
@@ -68,13 +68,9 @@
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://discord.com/users/865599256847843338"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="mailto:mrdiploben@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/mrdiploben"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:kumatanlogar.tv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/Kumatanlogar"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub"></a>
 </p>  
 
 ---
 
-## ✨ Fun Fact  
-> I got so bored once, I just decided to code, and here I am today.
-
----
