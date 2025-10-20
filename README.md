@@ -5,7 +5,7 @@
 </p>  
 
 ---
-![](https://komarev.com/ghpvc/?username=Kumatanlogar&style=flat) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://to.lorenzo0111.me/discord [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kumatanlogar) 
+![](https://komarev.com/ghpvc/?username=Kumatanlogar&style=flat) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NP6jcJ3gKh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kumatanlogar) 
 ---
 
 ## 🚀 About Me  
