@@ -1,8 +1,9 @@
 # 👋 Hey, I’m KumatanLogar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=25&center=true&vCenter=true&CyberSecurity+Expert;Website+Developer;Always+Building+Cool+Skids" alt="Typing SVG">
-</p>  
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=25&center=true&vCenter=true&width=500&lines=CyberSecurity+Expert;Website+Developer;Always+Building+Cool+Skids" alt="Typing SVG" />
+</p>
+
 
 ---
 ![](https://komarev.com/ghpvc/?username=Kumatanlogar&style=flat) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NP6jcJ3gKh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kumatanlogar) 
