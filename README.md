@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Ben (aka. Lino’s Dev)  
+# 👋 Hey, I’m KumatanLogar
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=25&center=true&vCenter=true&lines=Full-Stack+Developer;Discord+Bot+Developer;Roblox+Scripter;Web+Designer;Always+Building+Cool+Stuff" alt="Typing SVG">
