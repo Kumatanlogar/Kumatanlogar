@@ -60,7 +60,7 @@
 ## 🐍 Contribution Graph  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kumatanlogar/Kumatanlogar/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Kumatanlogar)](https://git.io/streak-stats)
 </p>  
 
 ---
