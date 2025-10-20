@@ -5,6 +5,8 @@
 </p>  
 
 ---
+![](https://komarev.com/ghpvc/?username=Kumatanlogar&style=flat)
+---
 
 ## 🚀 About Me  
 - 🎮 **15-year-old dev** building projects for **Discord, Roblox, and the Web**.  
