@@ -50,7 +50,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrdiploben&show_icons=true&theme=transparent" alt="Mrdiploben's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kumatanlogar&show_icons=true&theme=transparent" alt="Mrdiploben's GitHub stats" />
 </p>
 
 
@@ -60,7 +60,7 @@
 ## 🐍 Contribution Graph  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrdiploben/mrdiploben/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Kumatanlogar/Kumatanlogar/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>  
 
 ---
