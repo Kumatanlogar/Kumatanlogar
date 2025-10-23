@@ -51,19 +51,6 @@ I love exploring **cybersecurity** and **ethical hacking** (always with an empha
 
 ---
 
-## 📌 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/LinoERLC/LinoBot">
-    <img src="https://img.shields.io/badge/LinoBot-Discord%20Bot-blue?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://github.com/LinoERLC/LinoWeb">
-    <img src="https://img.shields.io/badge/LinoWeb-Dashboard%20%2B%20Lino+-purple?style=for-the-badge&logo=php&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -75,9 +62,7 @@ I love exploring **cybersecurity** and **ethical hacking** (always with an empha
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Kumatanlogar" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kumatanlogar&theme=github&hide_border=true&area=true" />
 </p>
 
 ---
